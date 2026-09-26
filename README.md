@@ -1,183 +1,107 @@
-# Hey, I'm Ateeb Ali
+# Hey, I'm Ateeb Ali 👋
 
-### Cybersecurity Student | Penetration Testing | Digital Forensics | CTFs
+### Cybersecurity Student · Penetration Testing · Digital Forensics · CTFs
 
-I'm a Cybersecurity undergraduate at **Dawood University of Engineering & Technology**, focused on hands-on security work across **penetration testing, digital forensics, network security, and CTFs**.
+Cybersecurity undergraduate at **Dawood University of Engineering & Technology**, focused on hands-on security work — breaking things in controlled environments, investigating artifacts, and building small security projects along the way.
 
-I learn by breaking things in controlled environments, investigating artifacts, solving challenges, and building small security projects along the way.
+**Open to security internships, projects and collaborations.**
 
 ---
 
 ## 🛡️ What I Do
 
-* 🌐 **Web Application Penetration Testing**
+**Web Application Penetration Testing**
+SQL Injection, XSS, authentication vulnerabilities — using Burp Suite, SQLMap, GoBuster.
 
-  * SQL Injection
-  * XSS
-  * Authentication vulnerabilities
-  * Burp Suite, SQLMap, GoBuster
+**Mobile Application Security**
+Android APK analysis and reverse engineering with JADX and APKTool, including cryptographic key and SSL pinning analysis.
 
-* 📱 **Mobile Application Security**
+**Network & Infrastructure Security**
+Attack simulations covering ARP poisoning, MAC/IP spoofing, DNS poisoning, MitM, and ICMP flooding, plus broader infrastructure security assessments.
 
-  * Android APK analysis
-  * Reverse engineering with JADX
-  * APKTool
-  * Cryptographic key and SSL pinning analysis
-
-* 🌐 **Network & Infrastructure Security**
-
-  * Network attack simulations
-  * ARP Poisoning
-  * MAC/IP Spoofing
-  * DNS Poisoning
-  * MitM
-  * ICMP Flooding
-  * Infrastructure security assessments
-
-* 🔎 **Digital Forensics**
-
-  * Network forensics
-  * Memory forensics
-  * Mobile forensics
-  * Disk and image forensics
-  * Artifact recovery and timeline analysis
-
-* 🏴‍☠️ **CTFs**
-
-  * Cryptography
-  * Digital Forensics
-  * OSINT
-  * Challenge development
+**Digital Forensics** *(current focus — see below)*
+Network, memory, mobile, and disk forensics, with an emphasis on artifact recovery and timeline analysis.
 
 ---
 
-## 🔧 Tools & Technologies
+## 🔍 Digital Forensics — Deep Dive
 
-**Penetration Testing**
+This is the area I'm currently going deepest into. Hands-on work includes:
 
-`Burp Suite` `Nmap` `SQLMap` `GoBuster`
-
-**Mobile Analysis**
-
-`JADX` `APKTool`
-
-**Network Analysis**
-
-`Wireshark` `NetworkMiner`
-
-**Digital Forensics**
-
-`Autopsy` `FTK Imager` `Magnet RAM Capture` `Cellebrite`
-
-**Operating Systems**
-
-`Kali Linux` `Windows`
-
-**Programming**
-
-`Python`
+- Network traffic analysis (Wireshark) and passive artifact extraction (NetworkMiner)
+- Memory acquisition and analysis — process, network connection, and malware indicator extraction
+- Android device investigations and recovery of deleted artifacts
+- Disk image and file system artifact examination
+- Timeline construction
 
 ---
 
-## 🏴‍☠️ CTFs
+## 🏴‍☠️ CTFs & Challenge Design
 
-I compete in cybersecurity CTFs and particularly enjoy challenges involving:
+I compete in CTFs focused on **Cryptography, Digital Forensics, and OSINT**, and have moved from solving challenges to designing them — building original Cryptography and OSINT challenges for **Teknofest** and student-led cybersecurity events.
 
-`Cryptography` `Digital Forensics` `OSINT`
+**Recent:** Digital Pakistan Cyber Hackathon 2026 — challenges across Web, Cryptography, Forensics, Networking, OS, and Wireless.
 
-I've also moved from simply solving challenges to creating them.
-
-I've designed and deployed original **Cryptography** challenges for **Teknofest** and student-led cybersecurity events.
-
-### Recent
-
-**Digital Pakistan Cyber Hackathon 2026**
-
-Participated in challenges covering:
-
-`Web` `Cryptography` `Forensics` `Networking` `OS` `Wireless`
-
-I have also maintained selected challenge writeups and solutions on GitHub.
+Selected writeups and solutions are maintained on GitHub.
 
 ---
 
-## 🔍 Digital Forensics
+## 🏦 Cyber Risk Management — State Bank of Pakistan
 
-Forensics is currently the area of cybersecurity I'm going deepest into.
+Six-week internship covering:
 
-My hands-on work includes:
-
-* Network traffic analysis with Wireshark
-* Passive traffic analysis and artifact extraction with NetworkMiner
-* Memory acquisition and analysis
-* Extraction of processes, network connections and malware indicators
-* Android device investigations
-* Recovery of deleted artifacts
-* Disk image analysis
-* File system artifact examination
-* Timeline construction
-
----
-
-## 🏦 Cyber Risk
-
-I completed a six-week **Cyber Risk Management internship at the State Bank of Pakistan**.
-
-During the internship, I worked on:
-
-* Banking security case study analysis
-* Identification of security weaknesses
-* Evaluation of security controls
-* Risk assessment and scoring
-* Research into UK cybersecurity policies and frameworks
-* Comparison of the UK cybersecurity landscape with Pakistan
-* Identification of gaps and potential areas for improvement
+- Banking security case study analysis and identification of security weaknesses
+- Evaluation of security controls, risk assessment, and scoring
+- Research into UK cybersecurity policy and frameworks
+- Comparative analysis of UK vs. Pakistan cybersecurity landscapes, including gap identification
 
 ---
 
 ## 🎤 Public Speaking
 
-I also enjoy explaining cybersecurity outside of technical environments.
+- **"Red Team vs Blue Team Strategies"** — Khadim Ali Shah Bukhari Institute of Technology. Presented offensive/defensive security workflows and real-world case studies to undergraduates.
+- **"Careers in Cybersecurity"** — The Saran Educational Trust School. Spoke with secondary school students about career paths, certifications, and entry-level skills.
 
-### Red Team vs Blue Team Strategies
+---
 
-**Khadim Ali Shah Bukhari Institute of Technology**
+## 🔧 Tools & Technologies
 
-Presented offensive and defensive security operations, workflows and real-world security case studies to undergraduate students.
-
-### Careers in Cybersecurity
-
-**The Saran Educational Trust School**
-
-Spoke with secondary school students about cybersecurity career paths, certifications and the skills needed to enter the field.
+| Category | Tools |
+|---|---|
+| Penetration Testing | `Burp Suite` `Nmap` `SQLMap` `GoBuster` |
+| Mobile Analysis | `JADX` `APKTool` |
+| Network Analysis | `Wireshark` `NetworkMiner` |
+| Digital Forensics | `Autopsy` `FTK Imager` `Magnet RAM Capture` `Cellebrite` |
+| Operating Systems | `Kali Linux` `Windows` |
+| Programming | `Python` |
 
 ---
 
 ## 🎓 Education
 
-**BS Cybersecurity**
-Dawood University of Engineering & Technology
-2023 – Present
-
-**HSC Pre-Engineering**
-Government Degree Science College, Gulshan-e-Iqbal
-2021 – 2023
+**BS Cybersecurity** — Dawood University of Engineering & Technology *(2023 – Present)*
+**HSC Pre-Engineering** — Government Degree Science College, Gulshan-e-Iqbal *(2021 – 2023)*
 
 ---
 
-## 📜 Certifications & Training
+## 📜 Certifications
 
-* Certified Ethical Hacker (CEH) - NAVTTC
-* Cisco CCNA Training - Cisco NetAcad
-* SC-200: Mitigate Threats using Microsoft Security Copilot - Microsoft
-* Google Cybersecurity Professional Certificate - Coursera
-* Google Security Fundamentals - Google Cloud Skills Boost
-* Introduction to OSINT
-* Introduction to Hacking Methodology
-* Information Security Fundamentals
-* English for IT
-* Basic Operating Systems
-* IP Addressing
+- Certified Ethical Hacker (CEH) — NAVTTC
+- SC-200: Mitigate Threats using Microsoft Security Copilot — Microsoft
+- Google Cybersecurity Professional Certificate — Coursera
+- Cisco CCNA Training — Cisco NetAcad
+
+**Additional Training & Courses**
+Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking Methodology · Information Security Fundamentals · English for IT · Basic Operating Systems · IP Addressing
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ateeb-ali&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ateeb-ali&theme=radical" height="165" />
+</p>
 
 ---
 
@@ -195,16 +119,9 @@ Government Degree Science College, Gulshan-e-Iqbal
   </a>
 </p>
 
+<!-- TODO: replace with your real profile URLs -->
 <p align="left">
-  <a href="YOUR_TRYHACKME_LINK">TryHackMe</a> •
-  <a href="YOUR_PICOCTF_LINK">picoCTF</a> •
-  <a href="YOUR_CREDLY_LINK">Credly</a>
+  <a href="https://tryhackme.com/p/ateebali">TryHackMe</a> •
+  <a href="https://learn.cylabacademy.org/users/ateebali">picoCTF</a> •
+  <a href="https://credly.com/users/syedateebali">Credly</a>
 </p>
-
----
-
-### Currently
-
-Going deeper into **Digital Forensics**, while continuing to build practical experience in penetration testing, CTFs and cybersecurity research.
-
-**Open to security internships, projects and collaborations.**
