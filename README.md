@@ -99,9 +99,9 @@ Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking
 ## 💭 Daily Cybersecurity Thought
 
 <!-- DAILY_QUOTE_START -->
-> "The quieter you become, the more you can hear."
+> "It takes 20 years to build a reputation and a few minutes of a cyber-incident to ruin it."
 >
-> — Cybersecurity Principle
+> — Stephane Nappo
 <!-- DAILY_QUOTE_END -->
 
 ---
