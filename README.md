@@ -96,13 +96,29 @@ Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking
 
 ---
 
-## 💭 Daily Cybersecurity Thought
+<h2>🔐 Daily Cybersecurity Thought</h2>
 
+<table>
+<tr>
+<td width="600">
+
+<pre>
+┌──────────────────────────────────────────────────────┐
+│  > DAILY CYBERSECURITY THOUGHT                       │
+├──────────────────────────────────────────────────────┤
+│                                                      │
 <!-- DAILY_QUOTE_START -->
-> "It takes 20 years to build a reputation and a few minutes of a cyber-incident to ruin it."
->
-> — Stephane Nappo
+│  "Security is a process, not a product."             │
+│                                                      │
+│                         — Bruce Schneier              │
 <!-- DAILY_QUOTE_END -->
+│                                                      │
+└──────────────────────────────────────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
