@@ -96,29 +96,19 @@ Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking
 
 ---
 
-<h2>🔐 Daily Cybersecurity Thought</h2>
+## 🔐 Daily Cybersecurity Thought
 
-<table>
-<tr>
-<td width="600">
-
-<pre>
-┌──────────────────────────────────────────────────────┐
-│  > DAILY CYBERSECURITY THOUGHT                       │
-├──────────────────────────────────────────────────────┤
-│                                                      │
 <!-- DAILY_QUOTE_START -->
-│  "Security is a process, not a product."             │
-│                                                      │
-│                         — Bruce Schneier              │
+> ┌──────────────────────────────────────────────┐
+> │  `> DAILY CYBERSECURITY THOUGHT`             │
+> ├──────────────────────────────────────────────┤
+> │                                              │
+> │  **"Security is a process, not a product."** │
+> │                                              │
+> │                 — **Bruce Schneier**         │
+> │                                              │
+> └──────────────────────────────────────────────┘
 <!-- DAILY_QUOTE_END -->
-│                                                      │
-└──────────────────────────────────────────────────────┘
-</pre>
-
-</td>
-</tr>
-</table>
 
 ---
 
