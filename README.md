@@ -96,7 +96,7 @@ Selected writeups and solutions are maintained on GitHub.
 <p align="left">
   <a href="https://tryhackme.com/p/ateebali">TryHackMe</a> •
   <a href="https://learn.cylabacademy.org/users/ateebali">picoCTF</a> •
-  <a href="https://credly.com/users/syedateebali">Credly</a>
+  <a href="https://credly.com/users/syedateebali">Credly</a> •
   <a href="https://medium.com/@syedateeb124">Medium</a>
 </p>
 
