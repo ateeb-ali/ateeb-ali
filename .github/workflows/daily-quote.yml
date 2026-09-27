@@ -1,0 +1,62 @@
+name: Daily Cybersecurity Quote
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pick random quote
+        run: |
+          python - <<'PY'
+          import json
+          import random
+          import re
+          from pathlib import Path
+
+          readme = Path("README.md")
+          quotes_file = Path("quotes.json")
+
+          quotes = json.loads(quotes_file.read_text(encoding="utf-8"))
+          quote = random.choice(quotes)
+
+          replacement = (
+              f'> "{quote["quote"]}"\n'
+              f'>\n'
+              f'> — {quote["author"]}'
+          )
+
+          content = readme.read_text(encoding="utf-8")
+
+          pattern = r'<!-- DAILY_QUOTE_START -->.*?<!-- DAILY_QUOTE_END -->'
+
+          new_content = re.sub(
+              pattern,
+              f'<!-- DAILY_QUOTE_START -->\n{replacement}\n<!-- DAILY_QUOTE_END -->',
+              content,
+              flags=re.DOTALL
+          )
+
+          readme.write_text(new_content, encoding="utf-8")
+          PY
+
+      - name: Commit updated quote
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "chore: update daily cybersecurity quote"
+
+          git push
