@@ -79,7 +79,7 @@ Six-week internship covering:
 
 ## 🎓 Education
 
-**BS Cybersecurity** — Dawood University of Engineering & Technology *(2023 – Present)*
+**BS Cybersecurity** — Dawood University of Engineering & Technology *(2023 – Present)*<br>
 **HSC Pre-Engineering** — Government Degree Science College, Gulshan-e-Iqbal *(2021 – 2023)*
 
 ---
