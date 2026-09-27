@@ -99,9 +99,13 @@ Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking
 ## 🔐 Daily Cybersecurity Thought
 
 <!-- DAILY_QUOTE_START -->
-> "Cybersecurity is like the common cold: everyone gets it."
->
-> — Steve Langan
+<div align="center">
+
+🛡️ *"Security is a process, not a product."*
+
+**— Bruce Schneier**
+
+</div>
 <!-- DAILY_QUOTE_END -->
 
 ---
