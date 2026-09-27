@@ -31,7 +31,6 @@
     "quote": "Security exists to facilitate trust.",
     "author": "Bruce Schneier"
   },
-
   {
     "quote": "The weakest link in the security chain is people.",
     "author": "Kevin Mitnick"
@@ -56,7 +55,6 @@
     "quote": "Social engineering uses influence and persuasion to deceive people.",
     "author": "Kevin Mitnick"
   },
-
   {
     "quote": "The only truly secure system is one that is powered off.",
     "author": "Gene Spafford"
@@ -73,7 +71,6 @@
     "quote": "Securing an environment of Windows platforms is like trying to nail Jell-O to a tree.",
     "author": "Gene Spafford"
   },
-
   {
     "quote": "If security were all that mattered, computers would never be turned on.",
     "author": "Dan Farmer"
@@ -90,7 +87,6 @@
     "quote": "Security should be made as convenient as possible but not more convenient.",
     "author": "Dan Kaminsky"
   },
-
   {
     "quote": "Defect-free software does not exist.",
     "author": "Wietse Venema"
@@ -119,7 +115,6 @@
     "quote": "You don't make a system secure by patching the holes.",
     "author": "Wietse Venema"
   },
-
   {
     "quote": "Security is a process. It should be embedded at every stage of manufacturing.",
     "author": "Mikko Hyppönen"
@@ -140,7 +135,6 @@
     "quote": "Cybersecurity should be a permanent board-level topic for every company.",
     "author": "Mikko Hyppönen"
   },
-
   {
     "quote": "The important thing about security systems isn't how they work, it's how they fail.",
     "author": "Cory Doctorow"
@@ -153,7 +147,6 @@
     "quote": "Secrets are woven into the fabric of the universe.",
     "author": "Cory Doctorow"
   },
-
   {
     "quote": "Hackers just can't see something broken in the world and leave it be.",
     "author": "Keren Elazari"
@@ -166,7 +159,6 @@
     "quote": "Hackers find the vulnerable aspects in our rapidly changing world.",
     "author": "Keren Elazari"
   },
-
   {
     "quote": "One person's paranoia is another person's engineering redundancy.",
     "author": "Marcus J. Ranum"
@@ -183,12 +175,10 @@
     "quote": "Security administrators have basically the same concerns as plumbers.",
     "author": "Marcus J. Ranum"
   },
-
   {
     "quote": "Privacy is not an option, and it shouldn't be the price we accept for just getting on the Internet.",
     "author": "Gary Kovacs"
   },
-
   {
     "quote": "There are only two types of companies: those that have been hacked, and those that will be.",
     "author": "Robert Mueller"
@@ -197,7 +187,6 @@
     "quote": "If you are connected to the Internet, you are connected to the threat.",
     "author": "Robert Mueller"
   },
-
   {
     "quote": "If you spend more on coffee than on IT security, you will be hacked.",
     "author": "Richard Clarke"
@@ -210,7 +199,6 @@
     "quote": "Cybercrime is the greatest threat to every company in the world.",
     "author": "Ginni Rometty"
   },
-
   {
     "quote": "You have to assume that your network is already compromised.",
     "author": "Marcus Hutchins"
@@ -223,12 +211,10 @@
     "quote": "Consumer VPNs don't address any real cybersecurity issues.",
     "author": "Marcus Hutchins"
   },
-
   {
     "quote": "Trying to delete yourself from the internet is like trying to take piss out of a swimming pool.",
     "author": "Troy Hunt"
   },
-
   {
     "quote": "Security is not about eliminating risk. It's about managing it.",
     "author": "Ross Anderson"
@@ -241,7 +227,6 @@
     "quote": "Security engineering is about building systems that remain dependable in the face of malice.",
     "author": "Ross Anderson"
   },
-
   {
     "quote": "You cannot build just a back door for just the good guys.",
     "author": "Alex Stamos"
@@ -250,17 +235,14 @@
     "quote": "All of the best public cryptographers in the world would agree that you can't really build back doors in crypto.",
     "author": "Alex Stamos"
   },
-
   {
     "quote": "To be hacked is not a crime. To be unprepared is.",
     "author": "Kenneth Diebert"
   },
-
   {
     "quote": "Security is much more than a matter of IT.",
     "author": "Keren Elazari"
   },
-
   {
     "quote": "Cybersecurity is a team sport.",
     "author": "Tom Kellermann"
@@ -269,32 +251,26 @@
     "quote": "Cybersecurity is about managing risk.",
     "author": "Tom Kellermann"
   },
-
   {
     "quote": "Security should be built in, not bolted on.",
     "author": "Martin Fowler"
   },
-
   {
     "quote": "Security is excessive until it is not enough.",
     "author": "Robbie Sinclair"
   },
-
   {
     "quote": "Information is a weapon.",
     "author": "James Scott"
   },
-
   {
     "quote": "The human element is still the weakest link in cybersecurity.",
     "author": "Stewart Baker"
   },
-
   {
     "quote": "Cybersecurity is like the common cold: everyone gets it.",
     "author": "Steve Langan"
   },
-
   {
     "quote": "IoT without security equals Internet of Threats.",
     "author": "Stephane Nappo"
@@ -303,7 +279,6 @@
     "quote": "It takes 20 years to build a reputation and a few minutes of a cyber-incident to ruin it.",
     "author": "Stephane Nappo"
   },
-
   {
     "quote": "Security is a feeling and a reality, and they are not the same.",
     "author": "Bruce Schneier"
@@ -320,7 +295,6 @@
     "quote": "Computer security is the most exciting part of computing right now.",
     "author": "Bruce Schneier"
   },
-
   {
     "quote": "Security is a people problem, not a technology problem.",
     "author": "Bruce Schneier"
@@ -337,7 +311,6 @@
     "quote": "Security is a tax on the honest.",
     "author": "Bruce Schneier"
   },
-
   {
     "quote": "Hackers are always going to look for the weakest link.",
     "author": "Kevin Mitnick"
@@ -354,7 +327,6 @@
     "quote": "Attackers look to exploit weaknesses in human nature.",
     "author": "Kevin Mitnick"
   },
-
   {
     "quote": "The challenge with security is that you can never completely eliminate risk.",
     "author": "Gene Spafford"
@@ -363,154 +335,268 @@
     "quote": "Security is a combination of people, process, and technology.",
     "author": "Bruce Schneier"
   },
-
   {
     "quote": "If an attacker wants to break into a system, the most effective approach is to exploit the weakest link: people.",
     "author": "Kevin Mitnick"
   },
-
   {
     "quote": "You have to be very quick in detecting breaches so you can respond to them.",
     "author": "Mikko Hyppönen"
   },
-
   {
     "quote": "Criminals don't really want to break into your company. Criminals want money.",
     "author": "Mikko Hyppönen"
   },
-
   {
     "quote": "You don't have to have perfect security.",
     "author": "Mikko Hyppönen"
   },
-
   {
     "quote": "The attacker was bound by no usage policy.",
     "author": "Katie Moussouris"
   },
-
   {
     "quote": "The practical lesson for defenders is to have a capable model you can run on your own infrastructure.",
     "author": "Katie Moussouris"
   },
-
   {
     "quote": "The average user's computer is a ticking bomb.",
     "author": "Marcus Ranum"
   },
-
   {
     "quote": "If educating users was going to work, it would have worked by now.",
     "author": "Marcus Ranum"
   },
-
   {
     "quote": "The security of a network should not depend on secrecy.",
     "author": "Marcus Ranum"
   },
-
   {
     "quote": "People should have a choice in what software they want to use.",
     "author": "Wietse Venema"
   },
-
   {
     "quote": "Most of the effort in the software business goes into maintenance.",
     "author": "Wietse Venema"
   },
-
   {
     "quote": "For many people my software is something that you install and forget.",
     "author": "Wietse Venema"
   },
-
   {
     "quote": "I like to keep it that way.",
     "author": "Wietse Venema"
   },
-
   {
     "quote": "A security program starts with evaluating risk.",
     "author": "Tim Callahan"
   },
-
   {
     "quote": "Cybersecurity isn't abstract. It's real human protection.",
     "author": "Deborah Wheeler"
   },
-
   {
     "quote": "Cybersecurity must align with a company's ethics, not just its technology.",
     "author": "Maarten Van Horenbeeck"
   },
-
   {
     "quote": "Trusted employees must be vetted.",
     "author": "Cedric Leighton"
   },
-
   {
     "quote": "The future is now. We live in a cyber society.",
     "author": "Marco Ciappelli"
   },
-
   {
     "quote": "Before you reuse software, make sure it actually works.",
     "author": "Ralph Johnson"
   },
-
   {
     "quote": "The important thing about security systems is how they fail.",
     "author": "Cory Doctorow"
   },
-
   {
     "quote": "Technology giveth and technology taketh away.",
     "author": "Cory Doctorow"
   },
-
   {
     "quote": "The Internet was designed to move pictures of cats.",
     "author": "Dan Kaminsky"
   },
-
   {
     "quote": "Some of us got to go out and fix it.",
     "author": "Dan Kaminsky"
   },
-
   {
     "quote": "There is a scale of security that society needs.",
     "author": "Dan Kaminsky"
   },
-
   {
     "quote": "Technology hasn't achieved the security that society needs.",
     "author": "Dan Kaminsky"
   },
-
   {
     "quote": "Privacy is not for the passive. It demands vigilance.",
     "author": "Jeffrey Rosen"
   },
-
   {
     "quote": "Cybersecurity is a permanent board-level topic.",
     "author": "Mikko Hyppönen"
   },
-
   {
     "quote": "Security is an enabler.",
     "author": "Mikko Hyppönen"
   },
-
   {
     "quote": "Security enables employees to be productive and creative.",
     "author": "Mikko Hyppönen"
   },
-
   {
     "quote": "Security should be embedded at every stage of development.",
     "author": "Mikko Hyppönen"
+  },
+  {
+    "quote": "There are two types of companies: those that know they've been hacked, and those that don't know yet.",
+    "author": "John Chambers"
+  },
+  {
+    "quote": "The only truly secure system is one that is switched off and unplugged.",
+    "author": "Eugene Kaspersky"
+  },
+  {
+    "quote": "Amateurs hack systems, professionals hack people.",
+    "author": "Bruce Schneier"
+  },
+  {
+    "quote": "We're entering a world in which everything can be hacked.",
+    "author": "Marc Goodman"
+  },
+  {
+    "quote": "Cybersecurity is much more than a matter of IT.",
+    "author": "Stephane Nappo"
+  },
+  {
+    "quote": "Passwords are like underwear: don't let people see it, change it often, and don't share it with strangers.",
+    "author": "Chris Pirillo"
+  },
+  {
+    "quote": "The Internet is a great way to get on the net.",
+    "author": "Bob Dole"
+  },
+  {
+    "quote": "Every good superhero has an origin story, and so does every hacker.",
+    "author": "Kevin Poulsen"
+  },
+  {
+    "quote": "Encryption works. Properly implemented strong crypto systems are one of the few things that you can rely on.",
+    "author": "Edward Snowden"
+  },
+  {
+    "quote": "Arguing that you don't care about privacy because you have nothing to hide is like arguing you don't care about free speech because you have nothing to say.",
+    "author": "Edward Snowden"
+  },
+  {
+    "quote": "A ship in harbor is safe, but that is not what ships are built for.",
+    "author": "John A. Shedd"
+  },
+  {
+    "quote": "Vulnerability is the birthplace of innovation, creativity, and change.",
+    "author": "Brené Brown"
+  },
+  {
+    "quote": "The world has arrived at an age of cheap complex devices of great reliability, and something is bound to come of it.",
+    "author": "Vannevar Bush"
+  },
+  {
+    "quote": "If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology.",
+    "author": "Bruce Schneier"
+  },
+  {
+    "quote": "The user's going to pick dancing pigs over security every time.",
+    "author": "Bruce Schneier"
+  },
+  {
+    "quote": "There are two types of encryption: one that will prevent your sister from reading your diary and one that will prevent your government.",
+    "author": "Bruce Schneier"
+  },
+  {
+    "quote": "It is poor civic hygiene to install technologies that could someday facilitate a police state.",
+    "author": "Bruce Schneier"
+  },
+  {
+    "quote": "You can't defend. You can't prevent. The only thing you can do is detect and respond.",
+    "author": "Bruce Schneier"
+  },
+  {
+    "quote": "Effective cybersecurity is not a product, but a process.",
+    "author": "Jim Langevin"
+  },
+  {
+    "quote": "Cybersecurity is a continuous cycle of protection, detection, response, and recovery.",
+    "author": "Chris Painter"
+  },
+  {
+    "quote": "Cybersecurity is not a set of products, it's a set of practices.",
+    "author": "Ed Amoroso"
+  },
+  {
+    "quote": "Social engineering bypasses all technologies, including firewalls.",
+    "author": "Kevin Mitnick"
+  },
+  {
+    "quote": "No technology that's connected to the internet is unhackable.",
+    "author": "Abhijit Naskar"
+  },
+  {
+    "quote": "Security moves from failure to failure.",
+    "author": "Whitfield Diffie"
+  },
+  {
+    "quote": "The private sector is the key player in cyber security.",
+    "author": "James Comey"
+  },
+  {
+    "quote": "Security is not a one-time event. It's an ongoing process.",
+    "author": "John Malloy"
+  },
+  {
+    "quote": "The hacker community may be small, but it possesses the skills that are driving the global economies of the future.",
+    "author": "Heather Brooke"
+  },
+  {
+    "quote": "Hackers generally don't want to do hard work. They look for the easier targets.",
+    "author": "Robert Herjavec"
+  },
+  {
+    "quote": "It's not enough to protect your data; you need to protect your customers' data too.",
+    "author": "Satya Nadella"
+  },
+  {
+    "quote": "Never underestimate the determination of a kid who is time-rich and cash-poor.",
+    "author": "Kevin Mitnick"
+  },
+  {
+    "quote": "Data is a precious thing and will last longer than the systems themselves.",
+    "author": "Tim Berners-Lee"
+  },
+  {
+    "quote": "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.",
+    "author": "Tim Berners-Lee"
+  },
+  {
+    "quote": "Any circuit is a short circuit if you connect it to the wrong terminal.",
+    "author": "Katie Moussouris"
+  },
+  {
+    "quote": "Companies spend millions of dollars on firewalls and secure access devices, and it's money wasted because none of these measures address the weakest link in the security chain.",
+    "author": "Kevin Mitnick"
+  },
+  {
+    "quote": "You can't hack your way out of every problem — sometimes the fix is a policy, not a patch.",
+    "author": "Window Snyder"
+  },
+  {
+    "quote": "As long as there is a mismatch between attackers and defenders, attackers win.",
+    "author": "John Lambert"
   }
 ]
