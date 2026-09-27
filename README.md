@@ -124,4 +124,7 @@ Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking
   <a href="https://learn.cylabacademy.org/users/ateebali">picoCTF</a> •
   <a href="https://credly.com/users/syedateebali">Credly</a>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=ateeb-ali&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ateeb-ali&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
