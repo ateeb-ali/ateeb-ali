@@ -105,7 +105,7 @@ Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security is a process, not a product."*
+*"Security is 100% a matter of incentives."*
 
 **— Bruce Schneier**
 
