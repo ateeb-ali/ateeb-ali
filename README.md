@@ -119,9 +119,9 @@ Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking
   </a>
 </p>
 
-<!-- TODO: replace with your real profile URLs -->
 <p align="left">
   <a href="https://tryhackme.com/p/ateebali">TryHackMe</a> •
   <a href="https://learn.cylabacademy.org/users/ateebali">picoCTF</a> •
   <a href="https://credly.com/users/syedateebali">Credly</a>
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=ateeb-ali&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
