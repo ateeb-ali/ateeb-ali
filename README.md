@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security is 100% a matter of incentives."*
+*"Never underestimate the determination of a kid who is time-rich and cash-poor."*
 
-**— Bruce Schneier**
+**— Kevin Mitnick**
 
 </td>
 </tr>
