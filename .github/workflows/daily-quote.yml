@@ -1,0 +1,91 @@
+name: Daily Cybersecurity Quote
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pick random quote and update README
+        shell: python
+        run: |
+          import json
+          import random
+          import re
+          from pathlib import Path
+
+          quotes_path = Path("quotes.json")
+          readme_path = Path("README.md")
+
+          # Read quotes.json
+          with quotes_path.open("r", encoding="utf-8") as f:
+              quotes = json.load(f)
+
+          if not isinstance(quotes, list):
+              raise ValueError("quotes.json must contain a JSON array.")
+
+          if not quotes:
+              raise ValueError("quotes.json is empty.")
+
+          # Pick random quote
+          selected = random.choice(quotes)
+
+          if "quote" not in selected or "author" not in selected:
+              raise ValueError("Every quote must contain 'quote' and 'author'.")
+
+          replacement = (
+              '<!-- DAILY_QUOTE_START -->\n'
+              f'> "{selected["quote"]}"\n'
+              '>\n'
+              f'> — {selected["author"]}\n'
+              '<!-- DAILY_QUOTE_END -->'
+          )
+
+          # Read README
+          content = readme_path.read_text(encoding="utf-8")
+
+          pattern = r"<!-- DAILY_QUOTE_START -->.*?<!-- DAILY_QUOTE_END -->"
+
+          if not re.search(pattern, content, flags=re.DOTALL):
+              raise ValueError(
+                  "Could not find DAILY_QUOTE_START and DAILY_QUOTE_END "
+                  "markers in README.md."
+              )
+
+          # Replace existing quote
+          updated = re.sub(
+              pattern,
+              replacement,
+              content,
+              count=1,
+              flags=re.DOTALL
+          )
+
+          readme_path.write_text(updated, encoding="utf-8")
+
+          print(f"Selected quote: {selected['quote']}")
+          print(f"Author: {selected['author']}")
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update daily cybersecurity quote"
+            git push
+          fi
