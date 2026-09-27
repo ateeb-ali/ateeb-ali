@@ -38,29 +38,11 @@ This is the area I'm currently going deepest into. Hands-on work includes:
 
 ## 🏴‍☠️ CTFs & Challenge Design
 
-I compete in CTFs focused on **Cryptography, Digital Forensics, and OSINT**, and have moved from solving challenges to designing them — building original Cryptography and OSINT challenges for **Teknofest** and student-led cybersecurity events.
+I compete in CTFs focused on **Cryptography, Digital Forensics, and OSINT**, and have moved from solving challenges to designing them — building original Cryptography and OSINT challenges for **Teknofest** and other student-led cybersecurity events.
 
-**Recent:** Digital Pakistan Cyber Hackathon 2026 — challenges across Web, Cryptography, Forensics, Networking, OS, and Wireless.
+**Recent:** Digital Pakistan Cyber Hackathon 2026 Workshop — challenges across Web, Cryptography, Forensics, Networking, OS, and Wireless.
 
 Selected writeups and solutions are maintained on GitHub.
-
----
-
-## 🏦 Cyber Risk Management — State Bank of Pakistan
-
-Six-week internship covering:
-
-- Banking security case study analysis and identification of security weaknesses
-- Evaluation of security controls, risk assessment, and scoring
-- Research into UK cybersecurity policy and frameworks
-- Comparative analysis of UK vs. Pakistan cybersecurity landscapes, including gap identification
-
----
-
-## 🎤 Public Speaking
-
-- **"Red Team vs Blue Team Strategies"** — Khadim Ali Shah Bukhari Institute of Technology. Presented offensive/defensive security workflows and real-world case studies to undergraduates.
-- **"Careers in Cybersecurity"** — The Saran Educational Trust School. Spoke with secondary school students about career paths, certifications, and entry-level skills.
 
 ---
 
@@ -74,25 +56,6 @@ Six-week internship covering:
 | Digital Forensics | `Autopsy` `FTK Imager` `Magnet RAM Capture` `Cellebrite` |
 | Operating Systems | `Kali Linux` `Windows` |
 | Programming | `Python` |
-
----
-
-## 🎓 Education
-
-**BS Cybersecurity** — Dawood University of Engineering & Technology *(2023 – Present)*<br>
-**HSC Pre-Engineering** — Government Degree Science College, Gulshan-e-Iqbal *(2021 – 2023)*
-
----
-
-## 📜 Certifications
-
-- Certified Ethical Hacker (CEH) — NAVTTC
-- SC-200: Mitigate Threats using Microsoft Security Copilot — Microsoft
-- Google Cybersecurity Professional Certificate — Coursera
-- Cisco CCNA Training — Cisco NetAcad
-
-**Additional Training & Courses**
-Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking Methodology · Information Security Fundamentals · English for IT · Basic Operating Systems · IP Addressing
 
 ---
 
