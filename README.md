@@ -96,12 +96,13 @@ Google Security Fundamentals · Introduction to OSINT · Introduction to Hacking
 
 ---
 
-## 📊 GitHub Stats
+## 💭 Daily Cybersecurity Thought
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ateeb-ali&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ateeb-ali&theme=radical" height="165" />
-</p>
+<!-- DAILY_QUOTE_START -->
+> "The quieter you become, the more you can hear."
+>
+> — Cybersecurity Principle
+<!-- DAILY_QUOTE_END -->
 
 ---
 
