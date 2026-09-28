@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Never underestimate the determination of a kid who is time-rich and cash-poor."*
+*"It takes 20 years to build a reputation and a few minutes of a cyber-incident to ruin it."*
 
-**— Kevin Mitnick**
+**— Stephane Nappo**
 
 </td>
 </tr>
