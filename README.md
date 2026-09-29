@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"You cannot build just a back door for just the good guys."*
+*"You have to be very quick in detecting breaches so you can respond to them."*
 
-**— Alex Stamos**
+**— Mikko Hyppönen**
 
 </td>
 </tr>
