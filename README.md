@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"It takes 20 years to build a reputation and a few minutes of a cyber-incident to ruin it."*
+*"You cannot build just a back door for just the good guys."*
 
-**— Stephane Nappo**
+**— Alex Stamos**
 
 </td>
 </tr>
