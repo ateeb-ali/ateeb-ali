@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"You have to be very quick in detecting breaches so you can respond to them."*
+*"The Internet was designed to move pictures of cats."*
 
-**— Mikko Hyppönen**
+**— Dan Kaminsky**
 
 </td>
 </tr>
