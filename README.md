@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"The Internet was designed to move pictures of cats."*
+*"The average user's computer is a ticking bomb."*
 
-**— Dan Kaminsky**
+**— Marcus Ranum**
 
 </td>
 </tr>
