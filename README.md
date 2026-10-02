@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"The average user's computer is a ticking bomb."*
+*"There are two types of companies: those that know they've been hacked, and those that don't know yet."*
 
-**— Marcus Ranum**
+**— John Chambers**
 
 </td>
 </tr>
