@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"There are two types of companies: those that know they've been hacked, and those that don't know yet."*
+*"The important thing about security systems is how they fail."*
 
-**— John Chambers**
+**— Cory Doctorow**
 
 </td>
 </tr>
