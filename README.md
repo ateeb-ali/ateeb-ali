@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"The important thing about security systems is how they fail."*
+*"People are the weakest link in the security chain."*
 
-**— Cory Doctorow**
+**— Kevin Mitnick**
 
 </td>
 </tr>
