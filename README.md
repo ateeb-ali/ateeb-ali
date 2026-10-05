@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"People are the weakest link in the security chain."*
+*"Security is a way of thinking about the world."*
 
-**— Kevin Mitnick**
+**— Bruce Schneier**
 
 </td>
 </tr>
