@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security is a way of thinking about the world."*
+*"Security is much more than a matter of IT."*
 
-**— Bruce Schneier**
+**— Keren Elazari**
 
 </td>
 </tr>
