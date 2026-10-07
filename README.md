@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security is much more than a matter of IT."*
+*"Security is a process, not a product."*
 
-**— Keren Elazari**
+**— Bruce Schneier**
 
 </td>
 </tr>
