@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security is a process, not a product."*
+*"Privacy is not for the passive. It demands vigilance."*
 
-**— Bruce Schneier**
+**— Jeffrey Rosen**
 
 </td>
 </tr>
