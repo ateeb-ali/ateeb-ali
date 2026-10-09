@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Privacy is not for the passive. It demands vigilance."*
+*"It's not enough to protect your data; you need to protect your customers' data too."*
 
-**— Jeffrey Rosen**
+**— Satya Nadella**
 
 </td>
 </tr>
