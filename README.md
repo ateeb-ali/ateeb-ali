@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"It's not enough to protect your data; you need to protect your customers' data too."*
+*"The Internet is a great way to get on the net."*
 
-**— Satya Nadella**
+**— Bob Dole**
 
 </td>
 </tr>
