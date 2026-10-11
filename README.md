@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"The Internet is a great way to get on the net."*
+*"Information is a weapon."*
 
-**— Bob Dole**
+**— James Scott**
 
 </td>
 </tr>
