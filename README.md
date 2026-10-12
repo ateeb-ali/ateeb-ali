@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Information is a weapon."*
+*"Consumer VPNs don't address any real cybersecurity issues."*
 
-**— James Scott**
+**— Marcus Hutchins**
 
 </td>
 </tr>
