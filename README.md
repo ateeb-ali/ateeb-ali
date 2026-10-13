@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Consumer VPNs don't address any real cybersecurity issues."*
+*"Before you reuse software, make sure it actually works."*
 
-**— Marcus Hutchins**
+**— Ralph Johnson**
 
 </td>
 </tr>
