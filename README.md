@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Before you reuse software, make sure it actually works."*
+*"You have to assume that your network is already compromised."*
 
-**— Ralph Johnson**
+**— Marcus Hutchins**
 
 </td>
 </tr>
