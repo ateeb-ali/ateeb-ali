@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"You have to assume that your network is already compromised."*
+*"We're entering a world in which everything can be hacked."*
 
-**— Marcus Hutchins**
+**— Marc Goodman**
 
 </td>
 </tr>
