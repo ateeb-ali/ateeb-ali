@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"We're entering a world in which everything can be hacked."*
+*"Businesses manage risks."*
 
-**— Marc Goodman**
+**— Bruce Schneier**
 
 </td>
 </tr>
