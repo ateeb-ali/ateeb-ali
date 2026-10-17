@@ -82,7 +82,7 @@ Selected writeups and solutions are maintained on GitHub.
 ## 🌐 Find Me
 
 <p align="left">
-  <a href="https://ateebali.netlify.app">
+  <a href="https://ateebali.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/ateeb-ali">
