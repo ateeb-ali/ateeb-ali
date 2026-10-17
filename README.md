@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Businesses manage risks."*
+*"Social engineering involves compromising the individuals who use these systems."*
 
-**— Bruce Schneier**
+**— Kevin Mitnick**
 
 </td>
 </tr>
