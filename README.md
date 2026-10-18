@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Social engineering involves compromising the individuals who use these systems."*
+*"Cybersecurity isn't abstract. It's real human protection."*
 
-**— Kevin Mitnick**
+**— Deborah Wheeler**
 
 </td>
 </tr>
