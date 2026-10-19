@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Cybersecurity isn't abstract. It's real human protection."*
+*"Using encryption on the Internet is the equivalent of arranging an armored car to deliver credit-card information from someone living in a cardboard box."*
 
-**— Deborah Wheeler**
+**— Gene Spafford**
 
 </td>
 </tr>
