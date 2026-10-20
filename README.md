@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Using encryption on the Internet is the equivalent of arranging an armored car to deliver credit-card information from someone living in a cardboard box."*
+*"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology."*
 
-**— Gene Spafford**
+**— Bruce Schneier**
 
 </td>
 </tr>
