@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology."*
+*"Most of the effort in the software business goes into maintenance."*
 
-**— Bruce Schneier**
+**— Wietse Venema**
 
 </td>
 </tr>
