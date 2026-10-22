@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Most of the effort in the software business goes into maintenance."*
+*"Criminals don't really want to break into your company. Criminals want money."*
 
-**— Wietse Venema**
+**— Mikko Hyppönen**
 
 </td>
 </tr>
