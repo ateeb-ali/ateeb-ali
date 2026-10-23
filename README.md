@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Criminals don't really want to break into your company. Criminals want money."*
+*"The only secure system is one that is powered off."*
 
-**— Mikko Hyppönen**
+**— Gene Spafford**
 
 </td>
 </tr>
