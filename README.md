@@ -68,9 +68,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"The only secure system is one that is powered off."*
+*"There are only two types of companies: those that have been hacked, and those that will be."*
 
-**— Gene Spafford**
+**— Robert Mueller**
 
 </td>
 </tr>
