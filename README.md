@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"There are only two types of companies: those that have been hacked, and those that will be."*
+*"Privacy is not for the passive. It demands vigilance."*
 
-**— Robert Mueller**
+**— Jeffrey Rosen**
 
 </td>
 </tr>
