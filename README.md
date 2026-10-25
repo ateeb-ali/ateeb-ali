@@ -6,6 +6,7 @@ Cybersecurity undergraduate at **Dawood University of Engineering & Technology**
 
 **Open to security internships, projects and collaborations.**
 
+**Currently: Working on my Final Year Project**
 ---
 
 ## 🛡️ What I Do
