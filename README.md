@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Privacy is not for the passive. It demands vigilance."*
+*"The hacker community may be small, but it possesses the skills that are driving the global economies of the future."*
 
-**— Jeffrey Rosen**
+**— Heather Brooke**
 
 </td>
 </tr>
