@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"The hacker community may be small, but it possesses the skills that are driving the global economies of the future."*
+*"Effective cybersecurity is not a product, but a process."*
 
-**— Heather Brooke**
+**— Jim Langevin**
 
 </td>
 </tr>
