@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Effective cybersecurity is not a product, but a process."*
+*"Hackers just can't see something broken in the world and leave it be."*
 
-**— Jim Langevin**
+**— Keren Elazari**
 
 </td>
 </tr>
