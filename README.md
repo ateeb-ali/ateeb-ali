@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Hackers just can't see something broken in the world and leave it be."*
+*"Amateurs hack systems, professionals hack people."*
 
-**— Keren Elazari**
+**— Bruce Schneier**
 
 </td>
 </tr>
