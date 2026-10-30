@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Amateurs hack systems, professionals hack people."*
+*"Some of us got to go out and fix it."*
 
-**— Bruce Schneier**
+**— Dan Kaminsky**
 
 </td>
 </tr>
