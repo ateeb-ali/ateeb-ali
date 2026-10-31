@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Some of us got to go out and fix it."*
+*"Security is a people problem, not a technology problem."*
 
-**— Dan Kaminsky**
+**— Bruce Schneier**
 
 </td>
 </tr>
