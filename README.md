@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security is a people problem, not a technology problem."*
+*"Every good superhero has an origin story, and so does every hacker."*
 
-**— Bruce Schneier**
+**— Kevin Poulsen**
 
 </td>
 </tr>
