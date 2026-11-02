@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Every good superhero has an origin story, and so does every hacker."*
+*"Security is a combination of people, process, and technology."*
 
-**— Kevin Poulsen**
+**— Bruce Schneier**
 
 </td>
 </tr>
