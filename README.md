@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security is a combination of people, process, and technology."*
+*"When I write software, I know that it will fail."*
 
-**— Bruce Schneier**
+**— Wietse Venema**
 
 </td>
 </tr>
