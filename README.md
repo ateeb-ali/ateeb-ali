@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"When I write software, I know that it will fail."*
+*"Security is a feeling and a reality, and they are not the same."*
 
-**— Wietse Venema**
+**— Bruce Schneier**
 
 </td>
 </tr>
