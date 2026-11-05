@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security is a feeling and a reality, and they are not the same."*
+*"There is a scale of security that society needs."*
 
-**— Bruce Schneier**
+**— Dan Kaminsky**
 
 </td>
 </tr>
