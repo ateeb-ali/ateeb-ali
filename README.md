@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"There is a scale of security that society needs."*
+*"It is poor civic hygiene to install technologies that could someday facilitate a police state."*
 
-**— Dan Kaminsky**
+**— Bruce Schneier**
 
 </td>
 </tr>
