@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"It is poor civic hygiene to install technologies that could someday facilitate a police state."*
+*"You don't make a system secure by patching the holes."*
 
-**— Bruce Schneier**
+**— Wietse Venema**
 
 </td>
 </tr>
