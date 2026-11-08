@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"You don't make a system secure by patching the holes."*
+*"Any circuit is a short circuit if you connect it to the wrong terminal."*
 
-**— Wietse Venema**
+**— Katie Moussouris**
 
 </td>
 </tr>
