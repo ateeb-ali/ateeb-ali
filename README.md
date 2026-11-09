@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Any circuit is a short circuit if you connect it to the wrong terminal."*
+*"Businesses manage risks."*
 
-**— Katie Moussouris**
+**— Bruce Schneier**
 
 </td>
 </tr>
