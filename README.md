@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Businesses manage risks."*
+*"Security enables employees to be productive and creative."*
 
-**— Bruce Schneier**
+**— Mikko Hyppönen**
 
 </td>
 </tr>
