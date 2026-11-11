@@ -69,7 +69,7 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security enables employees to be productive and creative."*
+*"Cybersecurity should be a permanent board-level topic for every company."*
 
 **— Mikko Hyppönen**
 
