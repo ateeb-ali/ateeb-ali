@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Cybersecurity should be a permanent board-level topic for every company."*
+*"You cannot build just a back door for just the good guys."*
 
-**— Mikko Hyppönen**
+**— Alex Stamos**
 
 </td>
 </tr>
