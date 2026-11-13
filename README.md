@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"You cannot build just a back door for just the good guys."*
+*"A security program starts with evaluating risk."*
 
-**— Alex Stamos**
+**— Tim Callahan**
 
 </td>
 </tr>
