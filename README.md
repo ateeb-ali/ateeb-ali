@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"A security program starts with evaluating risk."*
+*"Hackers generally don't want to do hard work. They look for the easier targets."*
 
-**— Tim Callahan**
+**— Robert Herjavec**
 
 </td>
 </tr>
