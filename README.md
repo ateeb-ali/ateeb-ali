@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Hackers generally don't want to do hard work. They look for the easier targets."*
+*"Arguing that you don't care about privacy because you have nothing to hide is like arguing you don't care about free speech because you have nothing to say."*
 
-**— Robert Herjavec**
+**— Edward Snowden**
 
 </td>
 </tr>
