@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Arguing that you don't care about privacy because you have nothing to hide is like arguing you don't care about free speech because you have nothing to say."*
+*"Hackers are always going to look for the weakest link."*
 
-**— Edward Snowden**
+**— Kevin Mitnick**
 
 </td>
 </tr>
