@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Hackers are always going to look for the weakest link."*
+*"You can't defend. You can't prevent. The only thing you can do is detect and respond."*
 
-**— Kevin Mitnick**
+**— Bruce Schneier**
 
 </td>
 </tr>
