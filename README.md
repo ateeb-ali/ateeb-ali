@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"You can't defend. You can't prevent. The only thing you can do is detect and respond."*
+*"The security of a network should not depend on the secrecy of its structure."*
 
-**— Bruce Schneier**
+**— Marcus J. Ranum**
 
 </td>
 </tr>
