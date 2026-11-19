@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"The security of a network should not depend on the secrecy of its structure."*
+*"One bug in an SMTP server can open up the whole machine for intrusion."*
 
-**— Marcus J. Ranum**
+**— Wietse Venema**
 
 </td>
 </tr>
