@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"One bug in an SMTP server can open up the whole machine for intrusion."*
+*"There are only two types of companies: those that have been hacked, and those that will be."*
 
-**— Wietse Venema**
+**— Robert Mueller**
 
 </td>
 </tr>
