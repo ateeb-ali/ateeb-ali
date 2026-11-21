@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"There are only two types of companies: those that have been hacked, and those that will be."*
+*"People always want to help."*
 
-**— Robert Mueller**
+**— Kevin Mitnick**
 
 </td>
 </tr>
