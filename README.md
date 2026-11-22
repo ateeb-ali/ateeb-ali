@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"People always want to help."*
+*"Arguing that you don't care about privacy because you have nothing to hide is like arguing you don't care about free speech because you have nothing to say."*
 
-**— Kevin Mitnick**
+**— Edward Snowden**
 
 </td>
 </tr>
