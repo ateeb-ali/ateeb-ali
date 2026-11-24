@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"The security of a network should not depend on the secrecy of its structure."*
+*"The user's going to pick dancing pigs over security every time."*
 
-**— Marcus J. Ranum**
+**— Bruce Schneier**
 
 </td>
 </tr>
