@@ -69,7 +69,7 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"The user's going to pick dancing pigs over security every time."*
+*"Security is a process, not a product."*
 
 **— Bruce Schneier**
 
