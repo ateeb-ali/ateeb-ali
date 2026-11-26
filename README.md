@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Security is a process, not a product."*
+*"Cybersecurity is about managing risk."*
 
-**— Bruce Schneier**
+**— Tom Kellermann**
 
 </td>
 </tr>
