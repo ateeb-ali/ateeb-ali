@@ -69,9 +69,9 @@ Selected writeups and solutions are maintained on GitHub.
 
 ### 🛡️ Daily Cybersecurity Thought
 
-*"Cybersecurity is about managing risk."*
+*"If you are connected to the Internet, you are connected to the threat."*
 
-**— Tom Kellermann**
+**— Robert Mueller**
 
 </td>
 </tr>
